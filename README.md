@@ -1,4 +1,4 @@
-# Purdue ECE308 Digital Control Project
+# ECE308 Digital Control Project
 Spring 2017, Lab Instructor
 
 Note:
