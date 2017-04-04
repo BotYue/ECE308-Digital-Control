@@ -1,8 +1,8 @@
-# ECE308 Digital Control Project
-Spring 2017, TA Lab
+# Purdue ECE308 Digital Control Project
+Spring 2017, Lab Instructor
 
 Note:
-The choice of zeros in the phase-lead compenator is not unique. 
+The choice of zeros in the lead compenator is not unique. 
 
 ### Reference
 - [Control Tutorial for MATLAB and SIMULINK, Umich](http://ctms.engin.umich.edu/CTMS/index.php?aux=Home)
